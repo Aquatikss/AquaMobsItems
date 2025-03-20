@@ -44,7 +44,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://gi
 ## Contact & Support
 
 For issues or feature requests, open a [GitHub issue](https://github.com/Aquatikss/AquaMobsItems/issues).  
-
----
-
-Let me know if you need any tweaks! 🚀
