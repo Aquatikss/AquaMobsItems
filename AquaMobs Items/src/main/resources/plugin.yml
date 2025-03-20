@@ -1,0 +1,14 @@
+name: AquaMobsItems
+version: '1.0'
+main: com.aquamobs.aquaMobsItems.Main
+api-version: '1.21'
+authors: [ Aquatikss ]
+description: My First Paper Plugin
+website: store.aquamobs.com
+commands:
+  item:
+    description: "§cSets an item to the given value and saves it to the configuration."
+    usage: "§cIncorrect Usage! §8( /§[i]tem[s] §8[ §f get§8 /§f set§8 /§f delete §8] §8[§f identifier §8] )"
+    aliases: [ i, items ]
+    permission: aquamobs.items
+    permission-message: "§cYou do not have permission to execute that command!"
